@@ -1,4 +1,5 @@
 TODO
 ----
 
-1. All the things.
+1. Redo the train schedule.
+2. Everything else.

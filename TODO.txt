@@ -1,5 +1,5 @@
 TODO
 ----
 
-1. Redo the train schedule.
+1. Make heatsink factory next to aluminum factory in the pink forest.
 2. Everything else.

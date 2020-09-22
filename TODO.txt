@@ -1,5 +1,6 @@
 TODO
 ----
 
-1. Make heatsink factory next to aluminum factory in the pink forest.
-2. Everything else.
+1. Make heavy modular frame factory.
+2. Make computer factory.
+3. Everything else.
